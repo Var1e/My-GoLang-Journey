@@ -1,3 +1,8 @@
+//Task: Write a guess-the-number program. 
+//Make the computer pick random numbers between 1–100 until it guesses your number, 
+//which you declare at the top of the program. 
+//Display each guess and whether it was too big or too small.
+
 package main
 
 import (
